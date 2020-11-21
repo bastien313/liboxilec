@@ -1,0 +1,2 @@
+# liboxilec
+Kicad library oxilec
